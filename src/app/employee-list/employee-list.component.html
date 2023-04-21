@@ -1,0 +1,40 @@
+<div class="container">
+    <div class="title1">
+        <a routerLink="/addEmployee">ADD SUBJECT</a></div><br>
+    <div class="title">SUBJECT LIST</div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Subject Id</th>
+                <th scope="col">Subject Name</th>
+                <th scope="col">Chapter Id</th>
+                <th scope="col">Chapter Name</th>
+                <th scope="col">Topic Id</th>
+                <th scope="col">Topic Name</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <ng-container *ngFor="let details of employeedetails;">
+                <ng-container *ngFor="let chapters of details?.chapters;">
+            <tr *ngFor="let topics of chapters?.topics;">
+                <td>{{details.subjectId}}</td>
+                <td>{{details.subjectName}}</td>
+                <td>{{chapters.id}}</td>
+                <td>{{chapters.name}}</td>
+                <td>{{topics.id}}</td>
+                <td>{{topics.name}}</td>
+                <td><a [routerLink]="['/editEmployee/', details.id]">Edit</a></td>
+                <td (click)="deleteId(topics.id)">Delete</td>
+                <!-- <td> <a [routerLink]="['/editEmployee/', details.id]">{{details.employee_name}}</a></td>
+                <td>{{details.employee_salary}}</td>
+                <td>{{details.employee_age}}</td>
+                <td> <a [routerLink]="['/editEmployee/', details.id]">Edit </a> </td>
+                <td (click)="deleteId(details.id)">Delete </td> -->
+            </tr>
+        </ng-container>
+        </ng-container>
+        </tbody>
+    </table>
+</div>

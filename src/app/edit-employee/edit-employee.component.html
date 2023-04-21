@@ -1,0 +1,37 @@
+<div class="container">
+    <h2 class="title">Edit Employee</h2>
+    <form (submit)="editEmployee(editEmployeeForm)" #editEmployeeForm="ngForm">
+        <div class="form-row">
+            <div class="col-md-12">
+                <label for="validationServer01">Subject Name</label>
+                <input type="text" class="form-control" required name="employee_name" [(ngModel)]="employeeDetailsbyID.employee_name" ngModel>
+            </div>
+            <div class="col-md-12">
+                <label for="validationServer02">Subject Id</label>
+                <input type="text" class="form-control" required name="employee_salary" [(ngModel)]="employeeDetailsbyID.employee_salary" ngModel>
+            </div>
+            <div class="col-md-12">
+                <label for="validationServer02">Chapter Name</label>
+                <input type="text" class="form-control" required name="employee_age" [(ngModel)]="employeeDetailsbyID.employee_age" ngModel>
+            </div>
+
+            <div class="col-md-12">
+                <label for="validationServer02">Chapter Id</label>
+                <input type="text" class="form-control" required name="chapter_id" [(ngModel)]="employeeDetailsbyID.chapter_id" ngModel>
+            </div>
+
+            <div class="col-md-12">
+                <label for="validationServer02">Topic Id</label>
+                <input type="text" class="form-control" required name="topic_id" [(ngModel)]="employeeDetailsbyID.topic_id" ngModel>
+            </div>
+
+            <div class="col-md-12">
+                <label for="validationServer02">Topic Name</label>
+                <input type="text" class="form-control" required name="topic_name" [(ngModel)]="employeeDetailsbyID.topic_name" ngModel>
+            </div>
+
+        </div><br>
+        <button class="btn btn-primary" type="submit">Submit</button>&nbsp;&nbsp;
+        <button class="btn btn-primary" (click)="BackPage()">Back</button>
+    </form>
+</div>

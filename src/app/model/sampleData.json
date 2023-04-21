@@ -1,0 +1,1968 @@
+[
+ {
+      "subjectId": "4145",
+      "subjectName": "Physics",
+      "chapters": [
+        {
+          "id": "4146",
+          "name": "Light - Reflection and Refraction",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4298",
+              "name": "Reflection of light",
+              "advanced": "56",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4299",
+              "name": "Spherical mirrors",
+              "advanced": "177",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4300",
+              "name": "Refraction of light",
+              "advanced": "175",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4147",
+          "name": "Human eye and Colourful world",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4302",
+              "name": "The human eye",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "1"
+            },
+            {
+              "id": "4303",
+              "name": "Defects of vision and their correction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "1"
+            },
+            {
+              "id": "4304",
+              "name": "Refraction of light through a prism",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "1"
+            },
+            {
+              "id": "4305",
+              "name": "Dispersion of white light by a glass prism",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "1"
+            },
+            {
+              "id": "4306",
+              "name": "Atmospheric refraction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4307",
+              "name": "Scattering of light",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 6,
+          "total_learn": 4
+        },
+        {
+          "id": "4148",
+          "name": "Electricity",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4309",
+              "name": "Electric current and circuit",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4310",
+              "name": "Electric potential and potential difference",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4311",
+              "name": "Circuit diagram",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4312",
+              "name": "Ohm's law",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4313",
+              "name": "Factors on which the resistance of a conductor depends",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4314",
+              "name": "Resistance of a system of resistors",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4315",
+              "name": "Heating effect of electric current",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4316",
+              "name": "Electric power",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 8,
+          "total_learn": 0
+        },
+        {
+          "id": "4149",
+          "name": "Magnetic effects of electric current",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4318",
+              "name": "Magnetic field and field lines",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4319",
+              "name": "Magnetic field due to a current-carrying conductor",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4320",
+              "name": "Force on a current-carrying conductor in a magnetic field",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4321",
+              "name": "Electric motor",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4322",
+              "name": "Electromagnetic induction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4323",
+              "name": "Electric generator",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4324",
+              "name": "Domestic electric circuits",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 7,
+          "total_learn": 0
+        },
+        {
+          "id": "4150",
+          "name": "Sources of energy",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4326",
+              "name": "What is a good source of energy?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4327",
+              "name": "Conventional sources of energy",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4328",
+              "name": "Alternative or nonconventional sources of energy",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4329",
+              "name": "Environmental consequences",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4330",
+              "name": "How long will an energy source last us?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        }
+      ]
+    },   
+    {
+      "subjectId": "4151",
+      "subjectName": "Chemistry",
+      "chapters": [
+        {
+          "id": "4152",
+          "name": "Chemical reactions and equations",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4332",
+              "name": "Chemical equations",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4333",
+              "name": "Types of chemical reactions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4334",
+              "name": "Have you observed the effects of oxidation reactions in Everyday life?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4153",
+          "name": "Acids, bases and salts",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4337",
+              "name": "Understanding the chemical properties of acids and bases",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4336",
+              "name": "Indicators",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9082",
+              "name": "Chemical properties of acids and bases ",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4338",
+              "name": "What do all acids and all bases have in common?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4339",
+              "name": "How strong are acid or base solutions?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4340",
+              "name": "More about salts",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 6,
+          "total_learn": 0
+        },
+        {
+          "id": "4154",
+          "name": "Metals and Non-metals",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4343",
+              "name": "Physical properties",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4344",
+              "name": "Chemical properties of metals",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4345",
+              "name": "How do metals and non-metals react?",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4346",
+              "name": "Occurrence of metals",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4347",
+              "name": "Corrosion",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4155",
+          "name": "Carbon and its compounds",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4349",
+              "name": "Bonding in carbon - the covalent bond",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4350",
+              "name": "Versatile nature of carbon",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4351",
+              "name": "Chemical properties of carbon compounds",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4352",
+              "name": "Some important carbon compounds - ethanol and ethanoic acid",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4353",
+              "name": "Soaps and detergents",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4156",
+          "name": "Periodic classification of elements",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4355",
+              "name": " Early attempts at the classification of elements",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4356",
+              "name": " Mendeleev's periodic table",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4357",
+              "name": "The modern periodic table",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "8825",
+              "name": "Trends in the Modern Periodic Table",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        }
+      ]
+    },
+    {
+      "subjectId": "4157",
+      "subjectName": "Biology",
+      "chapters": [
+        {
+          "id": "4158",
+          "name": "Life processes",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4776",
+              "name": "What are life processes?",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4777",
+              "name": "Nutrition",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4778",
+              "name": "Respiration",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4779",
+              "name": "Transportation",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4780",
+              "name": "Excretion",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4159",
+          "name": "Control and Coordination",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4781",
+              "name": "Coordination in animals",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4782",
+              "name": "Coordination in plants",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4783",
+              "name": "Hormones in animals",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4160",
+          "name": "How do organisms reproduce?",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4784",
+              "name": "Reproduction",
+              "advanced": "0",
+              "basic": "4745",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4785",
+              "name": "Reproduction in unicellular organisms",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4786",
+              "name": "Sexual reproduction",
+              "advanced": "0",
+              "basic": "4746",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4787",
+              "name": "Reproduction in human beings",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4161",
+          "name": "Heredity and Evolution",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4789",
+              "name": "Variation and Its - Accumulation",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4790",
+              "name": "Heredity and Genetics",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4791",
+              "name": "Sex determination",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4792",
+              "name": "Acquired and Inherited traits",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4793",
+              "name": "Evolution and Classification",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4162",
+          "name": "Our environment",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4794",
+              "name": "Environment",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4795",
+              "name": "Ecosystem",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4796",
+              "name": "Food Chains and Food Webs",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4797",
+              "name": "How do our activities affect the environment?",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4163",
+          "name": "Sustainable Management of natural resources",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4798",
+              "name": "Natural resources",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4799",
+              "name": "Forests and wild life, Biodiversity hotspots",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4800",
+              "name": "Water for all",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4801",
+              "name": "Coal and Petroleum",
+              "advanced": "0",
+              "basic": "0",
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        }
+      ]
+    },
+    {
+      "subjectId": "4164",
+      "subjectName": "Math",
+      "chapters": [
+        {
+          "id": "4165",
+          "name": "Real numbers",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4359",
+              "name": "Euclid’s Division Lemma",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4360",
+              "name": "The Fundamental Theorem of Arithmetic",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4361",
+              "name": "Revisiting Irrational Numbers",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4362",
+              "name": "Revisiting Rational Numbers and Their Decimal Expansions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4166",
+          "name": "Polynomials",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4364",
+              "name": "Geometrical Meaning of the Zeroes of a Polynomial",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4365",
+              "name": "Relationship between Zeroes and coefficients of a polynomial",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4366",
+              "name": "Division Algorithm for Polynomials",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4167",
+          "name": "Pair of linear equations in two variables",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4368",
+              "name": "Pair of Linear Equations in Two Variables and its Graphical method of solution",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4370",
+              "name": "Algebraic Methods of Solving a Pair of Linear Equations",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4371",
+              "name": "Equations Reducible to a Pair of Linear Equations in Two Variables",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4168",
+          "name": "Quadratic equations",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4373",
+              "name": "Quadratic Equations",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4374",
+              "name": "Solution of a Quadratic Equation by Factorization",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4375",
+              "name": "Solution of a Quadratic Equation by Completing the Square",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4376",
+              "name": "Nature of Roots",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4169",
+          "name": "Arithmetic progressions",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4378",
+              "name": "Arithmetic Progressions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4379",
+              "name": "nth Term of an AP",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4380",
+              "name": "Sum of First n Terms of an AP",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4170",
+          "name": "Triangles",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4382",
+              "name": "Similar Figures",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4383",
+              "name": "Similarity of Triangles",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4384",
+              "name": "Criteria for Similarity of Triangles",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4385",
+              "name": "Areas of Similar Triangles",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4386",
+              "name": "Pythagoras Theorem",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4171",
+          "name": "Coordinate geometry",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4388",
+              "name": "Distance Formula",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4389",
+              "name": "Section Formula",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4390",
+              "name": "Area of a Triangle",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4172",
+          "name": "Introduction to trigonometry",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4392",
+              "name": "Trigonometric Ratios",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4393",
+              "name": "Trigonometric Ratios of Some Specific Angles",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4394",
+              "name": "Trigonometric Ratios of Complementary Angles",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4395",
+              "name": "Trigonometric Identities",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4173",
+          "name": "Some applications of trigonometry",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4397",
+              "name": "Heights and Distances",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 1,
+          "total_learn": 0
+        },
+        {
+          "id": "4174",
+          "name": "Circles",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4399",
+              "name": "Tangent to a Circle",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4400",
+              "name": "Number of Tangents from a Point on a Circle",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 2,
+          "total_learn": 0
+        },
+        {
+          "id": "4175",
+          "name": "Constructions",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4402",
+              "name": "Division of a Line Segment",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4403",
+              "name": "Construction of Tangents to a Circle",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 2,
+          "total_learn": 0
+        },
+        {
+          "id": "4176",
+          "name": "Areas related to circles",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4405",
+              "name": "Perimeter and Area of a Circle - A Review",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4477",
+              "name": "Area of Sector and Segment of a Circle",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4478",
+              "name": "Areas of Combinations of Plane Figures",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "4177",
+          "name": "Surface areas and volumes",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4407",
+              "name": "Surface areas of Solids",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4408",
+              "name": "Surface area of the combination of solids",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4409",
+              "name": "Volume of the combination of solids",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4410",
+              "name": "Conversion of Solid from One Shape to Another",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4411",
+              "name": "Frustum of a Cone",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "4178",
+          "name": "Statistics",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4413",
+              "name": "Mean of Grouped Data",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4414",
+              "name": "Mode of Grouped Data",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4415",
+              "name": "Median of Grouped Data",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "4416",
+              "name": "Graphical Representation of Cumulative Frequency Distribution",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "4179",
+          "name": "Probability",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "4418",
+              "name": "Probability - A Theoretical Approach",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 1,
+          "total_learn": 0
+        }
+      ]
+    },
+    {
+      "subjectId": "7951",
+      "subjectName": "English",
+      "chapters": [
+        {
+          "id": "7952",
+          "name": "Tenses",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7963",
+              "name": "Introduction to Tenses",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7964",
+              "name": "Classification",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7965",
+              "name": "Present Tense",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7966",
+              "name": "Past Tense",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7967",
+              "name": "Future Tense",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "7953",
+          "name": "Modals",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7969",
+              "name": "Rule of Modals",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7970",
+              "name": "Use of Modals",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 2,
+          "total_learn": 0
+        },
+        {
+          "id": "7954",
+          "name": "Subject Verb Agreement",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7972",
+              "name": "Subject and agreeable verbs",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7971",
+              "name": "Story",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7973",
+              "name": "Rules of subject verb agreement",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "7955",
+          "name": "Determiners",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7975",
+              "name": "Classification of determiners",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7976",
+              "name": "Types of determiners and their use",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 2,
+          "total_learn": 0
+        },
+        {
+          "id": "7956",
+          "name": "Clauses",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7977",
+              "name": "Definition of Clauses",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7978",
+              "name": "Classification of Clauses",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7979",
+              "name": "Main Clause",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7980",
+              "name": "Subordinate Clause",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7981",
+              "name": "Coordinate Clause",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "7957",
+          "name": "Active and Passive Voice",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7983",
+              "name": "Types of voice",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7982",
+              "name": "Voices and Tenses",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7984",
+              "name": "Rules of voice change",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "7958",
+          "name": "Transformation of Sentences",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7986",
+              "name": "Transformation of sentences",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7987",
+              "name": "Degree of Comparison",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7988",
+              "name": "Types of sentences",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "7959",
+          "name": "Reported Speech",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7990",
+              "name": "Introduction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7991",
+              "name": "Change of time, place, position in indirect speech",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7992",
+              "name": "Rules for interchange of sentences from one speech to another ",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 3,
+          "total_learn": 0
+        },
+        {
+          "id": "7960",
+          "name": "Prepositions",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7993",
+              "name": "Introduction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7994",
+              "name": "Types of preposition",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7995",
+              "name": "Position of preposition",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7996",
+              "name": "Rules of prepositions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "7997",
+              "name": "Uses of preposition",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "7961",
+          "name": "Errors",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "7999",
+              "name": "Common errors",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 1,
+          "total_learn": 0
+        },
+        {
+          "id": "7962",
+          "name": "Writing Skills",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "8000",
+              "name": "Diary Writing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "8001",
+              "name": "Story Writing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "8002",
+              "name": "Letter Writing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "8003",
+              "name": "Article Writing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "8004",
+              "name": "Essay Writing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        }
+      ]
+    },
+    {
+      "subjectId": "8956",
+      "subjectName": "social",
+      "chapters": [
+        {
+          "id": "9035",
+          "name": "Power Sharing",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "9036",
+              "name": "Power-sharing in Belgium and Sri Lanka",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9037",
+              "name": "Accommodation in Belgium",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9079",
+              "name": "Majoritarianism in Sri Lanka",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9080",
+              "name": "Different Forms of Power-sharing",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "9038",
+          "name": "Federalism",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "9039",
+              "name": "Federalism and its Features",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9040",
+              "name": "India-A Federal Country",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9041",
+              "name": "Practice of Federalism",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9042",
+              "name": "Decentralisation in India",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9081",
+              "name": "Structure of Local Bodies",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 5,
+          "total_learn": 0
+        },
+        {
+          "id": "9043",
+          "name": "Democracy and Diversity",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "9044",
+              "name": "Introduction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9045",
+              "name": "A Story from Mexico Olympics",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9046",
+              "name": "Differences, Similarities and Divisions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9047",
+              "name": "Politics of social divisions",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        },
+        {
+          "id": "9048",
+          "name": "Gender Religion and Caste",
+          "advanced": null,
+          "basic": null,
+          "taketest": "1",
+          "topics": [
+            {
+              "id": "9049",
+              "name": "Introduction",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9050",
+              "name": "Gender and Politics",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9051",
+              "name": "Religion, Communalism and Politics",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            },
+            {
+              "id": "9052",
+              "name": "Caste and Politics",
+              "advanced": null,
+              "basic": null,
+              "taketest": "1",
+              "learn_status": "0"
+            }
+          ],
+          "total_topic": 4,
+          "total_learn": 0
+        }
+      ]
+    }
+  ]
